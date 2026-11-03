@@ -1,0 +1,39 @@
+data,descricao,categoria,valor
+2026-10-01,Aluguel outubro,Moradia,1800.00
+2026-10-02,Supermercado Dia,Alimentação,312.45
+2026-10-02,Uber para o trabalho,Transporte,24.90
+2026-10-03,Padaria,Alimentação,18.50
+2026-10-03,Cinema,Lazer,56.00
+2026-10-04,Farmácia,Saúde,87.30
+2026-10-05,Conta de luz,Moradia,142.80
+2026-10-05,Restaurante almoço,Alimentação,48.90
+2026-10-06,Metrô recarga,Transporte,50.00
+2026-10-07,Curso de inglês,Educação,320.00
+2026-10-08,Supermercado Dia,Alimentação,198.70
+2026-10-09,Show,Lazer,180.00
+2026-10-10,Uber para o trabalho,Transporte,31.20
+2026-10-10,Streaming,Lazer,39.90
+2026-10-11,Consulta médica,Saúde,250.00
+2026-10-12,Restaurante jantar,Alimentação,92.40
+2026-10-13,Metrô recarga,Transporte,50.00
+2026-10-14,Conta de internet,Moradia,119.90
+2026-10-15,Supermercado Dia,Alimentação,276.10
+2026-10-16,Padaria,Alimentação,21.30
+2026-10-17,Jogo online,Lazer,89.90
+2026-10-18,Uber para o trabalho,Transporte,27.60
+2026-10-19,Supermercado Dia,Alimentação,2850.00
+2026-10-20,Metrô recarga,Transporte,50.00
+2026-10-21,Mensalidade academia,Saúde,129.90
+2026-10-21,Mensalidade academia,Saúde,129.90
+2026-10-22,Livro técnico,Educação,89.00
+2026-10-22,Uber para o trabalho,Transporte,35.80
+2026-10-23,Estorno indevido,Lazer,-45.00
+2026-10-24,Restaurante almoço,Alimentação,52.10
+2026-10-24,Estacionamento,Transporte,29.40
+2026-10-25,Taxa de teste,Lazer,0.00
+2026-10-26,Uber para o trabalho,Transporte,45.00
+2026-10-27,Padaria,Alimentação,19.80
+2026-10-28,Streaming música,Lazer,21.90
+2026-12-15,Passagem aérea,Lazer,"280,00"
+2026-10-27,Linha com valor inválido,Lazer,abc
+31/10/2026,Compra com data fora do padrão,Lazer,10.00
