@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Saídas geradas pelo programa
+saida/
+*.db
+
+# Segredos (nunca suba senhas ou chaves de API)
+.env
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
