@@ -1,0 +1,3 @@
+# O programa usa apenas a biblioteca padrão do Python.
+# Estas dependências são só para desenvolvimento (rodar os testes).
+pytest>=8.0
